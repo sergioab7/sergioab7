@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <p>I like <b>cybersecurity</b> and <b>FullStack</b> programming, at the moment I'm focused on <b>backend</b> development and small scripts.</p>
 </div>
 
-<div align="left">
+<div align="center">
     <h3>🔨 Languages and Tools:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -37,6 +37,6 @@ Here are some ideas to get you started:
       </div>
 </div>
 
-<div align="center">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioab7&show_icons=true&theme=radical)
-</div>
+
